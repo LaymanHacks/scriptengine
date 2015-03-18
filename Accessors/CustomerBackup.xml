@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<CustomerBackupContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Backups>
+    <CustomerBackup>
+      <Id>1</Id>
+      <CustomerId>1</CustomerId>
+      <BackupLocation>c:\temp\demo.bak</BackupLocation>
+      <BackupSchemaVersion>10</BackupSchemaVersion>
+    </CustomerBackup>
+  </Backups>
+</CustomerBackupContainer>

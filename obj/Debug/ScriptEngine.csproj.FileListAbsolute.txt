@@ -1,0 +1,8 @@
+C:\workspaces\sideprojects\script-engine\ScriptEngine\ScriptEngine\bin\Debug\ScriptEngine.exe.config
+C:\workspaces\sideprojects\script-engine\bin\Debug\ScriptEngine.exe.config
+C:\workspaces\sideprojects\script-engine\bin\Debug\ScriptEngine.exe
+C:\workspaces\sideprojects\script-engine\bin\Debug\ScriptEngine.pdb
+C:\workspaces\sideprojects\script-engine\obj\Debug\ScriptEngine.csprojResolveAssemblyReference.cache
+C:\workspaces\sideprojects\script-engine\obj\Debug\ScriptEngine.exe
+C:\workspaces\sideprojects\script-engine\obj\Debug\ScriptEngine.pdb
+C:\workspaces\sideprojects\scriptengine\bin\Debug\ScriptEngine.exe.config
