@@ -117,7 +117,7 @@ namespace ScriptEngine.Managers
 
                 // script to current 
                 builder = new SqlConnectionStringBuilder(ConfigHelper.LocalConnectionString);
-                builder.InitialCatalog = "Beehive_Test";
+                builder.InitialCatalog = "Demo_Test";
                 historyScripts = scriptRetrievalEngine.GetHistoryScripts(decimal.MinValue, maxScriptVersion);
                 scriptRunner.RunScripts(historyScripts, builder.ToString(), replacements);
                 scriptRunner.RunScripts(holdingScripts, builder.ToString(), replacements);

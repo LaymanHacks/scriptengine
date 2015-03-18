@@ -28,7 +28,7 @@ namespace ScriptEngine
         public static string SourceControlBaseLocation {
             get 
             {
-                var dir = GetString("SourceControlBaseLocation", @"c:\workspaces\beehive\Scripts");
+                var dir = GetString("SourceControlBaseLocation", @"c:\temp\Scripts");
                 return dir; 
             }
         }
